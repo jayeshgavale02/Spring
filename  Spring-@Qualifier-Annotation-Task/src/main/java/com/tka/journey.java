@@ -15,5 +15,7 @@ public class journey {
 		 System.out.println(T.getTravellerperson1().journey());
 		 System.out.println(T.getTravellerperson2().journey());
 	}
-
+	
+	
+	
 }
